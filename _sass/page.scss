@@ -1,6 +1,6 @@
 
 div.content { /* Inner body */
-  background-color: #e8e8e8f0;
+  background-color: #e7e7e7f7;
   max-width: 768px !important;
   height: 100%;
 }
@@ -24,4 +24,8 @@ div.jumbotron {
   margin: 32px auto;
   max-width: 576px;
   text-align: center;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+  line-height: 1.5 !important;
 }

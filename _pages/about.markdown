@@ -6,15 +6,10 @@ permalink: /about/
 
 ## About Us
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Juggling club has been a presence at UCSB for decades, and we continue to serve the students at UCSB and the Santa Barbara community. [...]
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Every spring, we partner up with the [Santa Barbara Jugglers Association](http://www.sbjuggle.org/) to host the Isla Vista Jugglers Festival in [People's Park](https://www.google.com/maps/place/People's+Park,+Isla+Vista,+CA+93117/), Isla Vista. The festival has occurred annually since 1977 (wow!) and attracts talented jugglers from all across California. The event is held in memory of Patty Laney, a local activist and juggler who, tragically, became a victim of violence towards women. All of the proceeds from T-shirt and ticket sales go to the [Santa Barbara Rape Crisis Center](http://www.sbrapecrisiscenter.org/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Contact Us
 
-
-[jekyll-organization]: https://github.com/jekyll
+Questions? Email us at <a href="mailto:jugglingucsb@gmail.com">jugglingucsb@gmail.com</a>
