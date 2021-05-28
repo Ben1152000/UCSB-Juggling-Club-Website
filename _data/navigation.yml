@@ -1,10 +1,12 @@
+- name: Home
+  link: /
 - name: Meetings
   link: /meetings/
 - name: Learn to Juggle
   link: /learn/
 - name: About Us
   link: /about/
-- name: Contact Us
-  link: /contact/
-- name: Links
-  link: /links/
+# - name: Contact Us
+#   link: /contact/
+# - name: Links
+#   link: /links/
