@@ -18,8 +18,6 @@ Let's get started. First, you should have three balls, bean-bags, or any other r
 
 After practicing this for a few minutes, it's time to up the ante. Grab a second ball and hold one ball in each hand. First throw the ball in your dominant hand, and just before it reaches the apex of its arc, throw the ball in your other hand. Then catch both as they fall back into your hands. Don't worry if it didn't look super good on your first try. Keep practicing until you feel comfortable making both throws. At this stage, it's a good idea to switch up the order of the throws and start with your non-dominant hand, since you'll need to do both in order to perform the cascade.
 
-<br />
-
 <!--https://jugglinglab.org/anim?pattern=3;hands=(10)(32,15).;colors=mixed-->
 <img src="/assets/images/jugglinglab/cascade.gif" alt="Cascade" style="float: right; margin-left: 20px; width: 30%"/>
 
