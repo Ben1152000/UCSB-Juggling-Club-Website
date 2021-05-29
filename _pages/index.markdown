@@ -4,22 +4,23 @@ title: Juggling Club
 permalink: /
 ---
 
-<div style="margin-top: -40px; margin-left: -50px; margin-right: -50px; margin-bottom: 1rem; background-color: #e6eefd">
+<div class="banner">
     <img src="/assets/images/banner.png" style="width: 100%; object-fit: cover"/>
 </div>
 
 <div id="fb-root"></div> <!-- Needed for fb group widget-->
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0&appId=516502483036687&autoLogAppEvents=1" nonce="dXhnq0Le"></script>
 
+<div class="fb-group-container">
 <div class="fb-group" 
 data-href="https://www.facebook.com/groups/166416600086918" 
 data-width="280" 
 data-show-social-context="true" 
-data-show-metadata="false"
-style="float: right; margin-left: 20px; margin-top: 1rem; margin-bottom: 1rem;">
+data-show-metadata="false">
     <blockquote cite="https://www.facebook.com/groups/166416600086918" class="fb-xfbml-parse-ignore">
     Juggling Club at UCSB
     </blockquote>
+</div>
 </div>
 
 ## What is Juggling Club?
