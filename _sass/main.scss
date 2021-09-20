@@ -54,3 +54,26 @@ main {
 #search {
   flex: 1;
 }
+
+.discord-button {
+  display: inline-block;
+  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
+  line-height: 0;
+  border-radius: 3px;
+  box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+  background-color: #5869ea;
+  border: 2px solid #5869ea;
+  color: #fff;
+}
+
+.discord-button:hover {
+  background-color: #4757bd;
+  border: 2px solid #4757bd;
+  transition-duration: 0.2s;
+}
+
+.discord-button:active {
+  background-color: #3d489f;
+  border: 2px solid #3d489f;
+  transition-duration: 0.2s;
+}

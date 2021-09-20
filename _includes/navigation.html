@@ -19,7 +19,14 @@
     <ul class="navbar-nav mr-auto">
 
       {% for item in site.data.navigation %}
-        <li {% if page.url == item.link %} class="nav-item mr-2 active" {% else %} class="nav-item mr-2" {% endif %} data-toggle="collapse" data-target="#nav" aria-expanded="false" >
+        <li 
+            {% if page.url == item.link %} 
+              class="nav-item mr-2 active" 
+            {% else %} 
+              class="nav-item mr-2" 
+            {% endif %} 
+            data-toggle="collapse" data-target="#nav" aria-expanded="false" 
+        >
           <a class="nav-link" href="{{ item.link }}">
             {% if item.name == "Github" %} <i class="fab fa-github" style="font-size:18px"></i> {% endif %}
             {% if item.name == "Pi" %} <i class="fab fa-raspberry-pi" style="font-size:18px"></i> {% endif %}
@@ -31,6 +38,17 @@
         </li>
       {% endfor %}
 
+    </ul>
+
+    <!-- Discord Link: -->
+
+    <ul class="navbar-nav">
+      <li class="nav-item mr-2 discord-button px-1 active" data-toggle="collapse" data-target="#nav" aria-expanded="false" >
+        <a class="nav-link" href="https://discord.gg/VMv57VejWu">
+          <i class="fab fa-discord" style="font-size:18px"></i>
+          Discord
+        </a>
+      </li>
     </ul>
 
   </div>
