@@ -34,4 +34,3 @@ We welcome members of all skill levels - if you don't know how to juggle, we wil
 If you've always wanted to learn how to juggle, but don't know where to begin, check out our [guide for beginners](/learn). Make sure to share your progress on our facebook page!
 
 Additionally, residents of Santa Barbara County should check out our sister organization, the [Santa Barbara Jugglers Association](http://sbjuggle.org/). They have a host of incredibly talented and enthusiastic members who meet up weekly in downtown Santa Barbara to show their skills!
-

@@ -2,8 +2,8 @@
   link: /
 - name: Meetings
   link: /meetings/
-- name: Learn to Juggle
-  link: /learn/
+# - name: Learn to Juggle
+#   link: /learn/
 - name: About Us
   link: /about/
 # - name: Contact Us

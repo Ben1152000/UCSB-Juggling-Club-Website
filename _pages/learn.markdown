@@ -74,4 +74,3 @@ Mill's mess is a fun and neat-looking pattern that is slightly more difficult to
 <!--##### Pizzicato:-->
 
 *In addition to those listed here, you can find dozens of interesting juggling techniques at [http://libraryofjuggling.com/](http://libraryofjuggling.com/).*
-
