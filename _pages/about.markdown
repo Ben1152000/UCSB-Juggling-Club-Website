@@ -12,4 +12,4 @@ Every spring, we partner up with the [Santa Barbara Jugglers Association](http:/
 
 ### Contact Us
 
-Questions? Email us at <a href="mailto:jugglingucsb@gmail.com">jugglingucsb@gmail.com</a>
+Questions? Email us at <a href="mailto:contact@ucsbjuggling.org">contact@ucsbjuggling.org</a>
