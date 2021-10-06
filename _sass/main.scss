@@ -55,12 +55,15 @@ main {
   flex: 1;
 }
 
-.discord-button {
+.custom-button, .discord-button, .facebook-button {
   display: inline-block;
-  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
   line-height: 0;
   border-radius: 3px;
   box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.discord-button {
+  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
   background-color: #5869ea;
   border: 2px solid #5869ea;
   color: #fff;
@@ -75,5 +78,24 @@ main {
 .discord-button:active {
   background-color: #3d489f;
   border: 2px solid #3d489f;
+  transition-duration: 0.2s;
+}
+
+.facebook-button {
+  font-family: Whitney, "Open Sans", Helvetica, sans-serif;
+  background-color: #1877f2;
+  border: 2px solid #1877f2;
+  color: #fff;
+}
+
+.facebook-button:hover {
+  background-color: #166ad8;
+  border: 2px solid #166ad8;
+  transition-duration: 0.2s;
+}
+
+.facebook-button:active {
+  background-color: #125ab8;
+  border: 2px solid #125ab8;
   transition-duration: 0.2s;
 }
