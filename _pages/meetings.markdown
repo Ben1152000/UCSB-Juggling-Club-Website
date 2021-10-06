@@ -6,12 +6,12 @@ permalink: /meetings/
 
 ## Join us for our weekly meetings!
 
-*We are not meeting in-person for the 2020-2021 school year due to the pandemic, but you can join our virtual juggling session on zoom every Friday from 3pm-4pm on <a href="https://discord.gg/VMv57VejWu">discord</a>!*
+🎉🎉🎉 *We have returned to in-person meetings for the 2021-2022 school year!* 🎉🎉🎉
 
-During the UCSB school year, we normally meet weekly at the following times:
+While classes are in session, we meet weekly at the following times:
 
-- Fridays from 3:30-5:00pm on the lawn at the base of Storke Tower.
-- Saturdays 3pm-6:30pm in People's Park, Isla Vista, right next to Embarcadero Hall.
+- Fridays from 3pm-5pm on the lawn at the base of Storke Tower.
+- Saturdays from 3pm until sunset at Willow Glen Park in Santa Barbara.
 
 <div style="display: flex; flex-direction: row; margin-bottom: 1rem;">
 <iframe
@@ -28,8 +28,8 @@ During the UCSB school year, we normally meet weekly at the following times:
   loading="lazy"
   allowfullscreen
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyDOwtX0VvuEAY5eSXwj_fx-Hqhq318C4Sc
-    &q=People's+Park,+Isla+Vista,+CA">
+    &q=Willow+Glen+Park,+Santa+Barbara,+CA">
 </iframe>
 </div>
 
-We'll be getting ready to kick off next fall quarter back in person! Keep an eye out for further updates!
+For our saturday meetings: If you are a student at UCSB, we will try to provide carpools to anyone who needs it.
